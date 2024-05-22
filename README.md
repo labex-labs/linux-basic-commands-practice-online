@@ -4,8 +4,8 @@
 
 In this course, you will practice the most commonly used Linux commands. You will learn how to use the commands to manage files and directories, search for files, and process text. You will also learn how to use the commands to check the disk usage, and measure the time of command execution.
 
-![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux&link=https%3A%2F%2Flabex.io%2Fskilltrees)
-![Shell](https://img.shields.io/badge/Shell-whitesmoke?style=for-the-badge&logo=shell&link=https%3A%2F%2Flabex.io%2Fskilltrees)
+![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
+![Shell](https://img.shields.io/badge/Shell-whitesmoke?style=for-the-badge&logo=shell)
 
 
 ## Scenarios
