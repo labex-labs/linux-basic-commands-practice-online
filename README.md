@@ -44,4 +44,3 @@ In this course, you will practice the most commonly used Linux commands. You wil
 |      30 | 📖 Linux du Command: File Space Estimating     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/219190'>Start Lab</a> |
 |      31 | 📖 Linux time Command: Command Timing          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/219197'>Start Lab</a> |
 
-> Updated at: 2024-05-21T05:52:44Z
