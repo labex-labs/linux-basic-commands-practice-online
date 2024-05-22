@@ -10,8 +10,8 @@ In this course, you will practice the most commonly used Linux commands. You wil
 
 ## Scenarios
 
-|   Index | Name                                           | Difficulty   | URL                                                                  |
-|---------|------------------------------------------------|--------------|----------------------------------------------------------------------|
+|   Index | Name                                          | Difficulty   | URL                                                                  |
+|---------|-----------------------------------------------|--------------|----------------------------------------------------------------------|
 |      01 | 📖 Linux ls Command: Content Listing           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/219205'>Start Lab</a> |
 |      02 | 📖 Linux cd Command: Directory Changing        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/209733'>Start Lab</a> |
 |      03 | 📖 Linux pwd Command: Directory Displaying     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/209734'>Start Lab</a> |
