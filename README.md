@@ -10,7 +10,7 @@ In this course, you will practice the most commonly used Linux commands. You wil
 
 ## Scenarios
 
-|   Index | Name                                          | Difficulty   | URL                                                                  |
+|   Index | Name                                          | Difficulty   | Practice                                                             |
 |---------|-----------------------------------------------|--------------|----------------------------------------------------------------------|
 |      01 | 📖 Linux ls Command: Content Listing           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/219205'>Start Lab</a> |
 |      02 | 📖 Linux cd Command: Directory Changing        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/209733'>Start Lab</a> |
@@ -43,4 +43,9 @@ In this course, you will practice the most commonly used Linux commands. You wil
 |      29 | 📖 Linux df Command: Disk Space Reporting      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/219188'>Start Lab</a> |
 |      30 | 📖 Linux du Command: File Space Estimating     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/219190'>Start Lab</a> |
 |      31 | 📖 Linux time Command: Command Timing          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/219197'>Start Lab</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
 
