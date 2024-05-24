@@ -1,6 +1,6 @@
 # Practice Linux Commands
 
-![Practice Linux Commands](https://cover-creator.labex.io/linux-basic-commands-practice-online.png)
+![Practice Linux Commands](https://cover-creator.appbot.io/linux-basic-commands-practice-online.png)
 
 In this course, you will practice the most commonly used Linux commands. You will learn how to use the commands to manage files and directories, search for files, and process text. You will also learn how to use the commands to check the disk usage, and measure the time of command execution.
 
