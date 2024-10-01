@@ -26,8 +26,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                               | Difficulty   | Practice                                                                                                                           |
-|---------|----------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                              | Difficulty   | Practice                                                                                                                           |
+|---------|---------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------|
 |      01 | 📖 Linux ls Command: Content Listing               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-linux-ls-command-content-listing-219205'>Start Lab</a>                   |
 |      02 | 📖 Linux pwd Command: Directory Displaying         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-linux-pwd-command-directory-displaying-209734'>Start Lab</a>             |
 |      03 | 🎯 Linux Directory Navigation                      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-directory-navigation-387844'>Start Challenge</a>                         |
