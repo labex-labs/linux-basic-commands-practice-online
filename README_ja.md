@@ -18,47 +18,47 @@
 
 |   インデックス | 名前                                                          | 難易度   | 練習                                                                                                                                   |
 |----------------|---------------------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 🟢 Linux の ls コマンド：コンテンツの一覧表示              | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-ls-command-content-listing-219205'>ラボを開始</a>                   |
-|             02 | 📖 🟢 Linux の pwd コマンド：ディレクトリ表示                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-pwd-command-directory-displaying-209734'>ラボを開始</a>             |
-|             03 | 🎯 🟢 Linux ディレクトリナビゲーション                        | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-directory-navigation-387844'>チャレンジを開始</a>                         |
-|             04 | 📖 🟢 Linux cd コマンド：ディレクトリ変更                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-cd-command-directory-changing-209733'>ラボを開始</a>                |
-|             05 | 📖 🟢 Linux の mkdir コマンド：ディレクトリの作成             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-mkdir-command-directory-creating-209739'>ラボを開始</a>             |
-|             06 | 🎯 🟢 新しいプロジェクト構造のセットアップ                    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-setting-up-a-new-project-structure-387859'>チャレンジを開始</a>           |
-|             07 | 📖 🟢 Linux の cp コマンド：ファイルコピー                    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-cp-command-file-copying-209744'>ラボを開始</a>                      |
-|             08 | 📖 🟢 Linux の mv コマンド：ファイルの移動とリネーム          | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-mv-command-file-moving-and-renaming-209743'>ラボを開始</a>          |
-|             09 | 📖 🟢 Linux の rm コマンド：ファイルの削除                    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-rm-command-file-removing-209741'>ラボを開始</a>                     |
-|             10 | 🎯 🟢 ファイルとディレクトリの整理                            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-organizing-files-and-directories-387877'>チャレンジを開始</a>             |
-|             11 | 📖 🟢 Linux の cat コマンド：ファイルの連結                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-cat-command-file-concatenating-210986'>ラボを開始</a>               |
-|             12 | 📖 🟢 Linux の more コマンド：ファイルのスクロール            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-more-command-file-scrolling-214299'>ラボを開始</a>                  |
-|             13 | 📖 🟢 Linux の less コマンド：ファイルのページング            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-less-command-file-paging-214301'>ラボを開始</a>                     |
-|             14 | 🎯 🟢 Linux でのログファイルと設定ファイルの閲覧              | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-viewing-log-and-configuration-files-in-linux-387914'>チャレンジを開始</a> |
-|             15 | 📖 🟢 Linux の head コマンド：ファイルの先頭を表示する        | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-head-command-file-beginning-display-214302'>ラボを開始</a>          |
-|             16 | 📖 🟢 Linux の tail コマンド：ファイル末尾の表示              | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-tail-command-file-end-display-214303'>ラボを開始</a>                |
-|             17 | 📖 🟢 Linux の nl コマンド：行番号付け                        | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-nl-command-line-numbering-210988'>ラボを開始</a>                    |
-|             18 | 🎯 🟢 迅速な脅威検出                                          | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-rapid-threat-detection-387930'>チャレンジを開始</a>                       |
-|             19 | 📖 🟢 Linux which コマンド：コマンドの場所を特定する          | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-which-command-command-locating-215210'>ラボを開始</a>               |
-|             20 | 📖 🟢 Linux の whereis コマンド：ファイルとコマンドの検索     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-whereis-command-file-and-command-finding-215211'>ラボを開始</a>     |
-|             21 | 📖 🟢 Linux find コマンド：ファイル検索                       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-find-command-file-searching-219191'>ラボを開始</a>                  |
-|             22 | 🎯 🔵 重要なシステムリソースを見つける                        | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-discover-critical-system-resources-388032'>チャレンジを開始</a>           |
-|             23 | 📖 🟢 Linux の grep コマンド：パターン検索                    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-grep-command-pattern-searching-219192'>ラボを開始</a>               |
-|             24 | 🎯 🔵 大海原から針を探す                                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-needle-in-the-haystack-388109'>チャレンジを開始</a>                       |
-|             25 | 📖 🟢 Linux の wc コマンド：テキストのカウント                | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-wc-command-text-counting-219200'>ラボを開始</a>                     |
-|             26 | 📖 🟢 Linux の cut コマンド：テキストの切り取り               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-cut-command-text-cutting-219187'>ラボを開始</a>                     |
-|             27 | 📖 🟢 Linux の sort コマンド：テキストのソート                | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-sort-command-text-sorting-219196'>ラボを開始</a>                    |
-|             28 | 📖 🟢 Linux の uniq コマンド：重複フィルタリング              | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-uniq-command-duplicate-filtering-219199'>ラボを開始</a>             |
-|             29 | 🎯 🔵 単語数カウントとソート                                  | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-word-count-and-sorting-388125'>チャレンジを開始</a>                       |
-|             30 | 📖 🟢 Linux の tr コマンド：文字変換                          | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-tr-command-character-translating-219198'>ラボを開始</a>             |
-|             31 | 📖 🟢 Linux の diff コマンド：ファイル比較                    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-diff-command-file-comparing-219189'>ラボを開始</a>                  |
-|             32 | 📖 🟢 Linux の join コマンド：ファイルの結合                  | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-join-command-file-joining-219193'>ラボを開始</a>                    |
-|             33 | 📖 🟢 Linux xargs コマンド：コマンド構築                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-xargs-command-command-building-219201'>ラボを開始</a>               |
-|             34 | 📖 🔵 Linux の awk コマンド：テキスト処理                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-awk-command-text-processing-388493'>ラボを開始</a>                  |
-|             35 | 🎯 🔵 従業員データの処理                                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-processing-employees-data-388132'>チャレンジを開始</a>                    |
-|             36 | 📖 🔵 Linux の top コマンド：リアルタイムシステムモニタリング | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-top-command-real-time-system-monitoring-388500'>ラボを開始</a>      |
-|             37 | 📖 🔵 Linux の free コマンド：システムメモリの監視            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-free-command-monitoring-system-memory-388496'>ラボを開始</a>        |
-|             38 | 📖 🔵 Linux の df コマンド：ディスク空き容量の報告            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-df-command-disk-space-reporting-219188'>ラボを開始</a>              |
-|             39 | 📖 🟢 Linux の du コマンド：ファイルのディスク容量見積もり    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-du-command-file-space-estimating-219190'>ラボを開始</a>             |
-|             40 | 🎯 🔵 ディスク使用状況調査                                    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-disk-usage-detective-388099'>チャレンジを開始</a>                         |
-|             41 | 📖 🟢 Linux time コマンド：コマンドのタイミング測定           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-time-command-command-timing-219197'>ラボを開始</a>                  |
+|             01 | 📖 🆓 Linux の ls コマンド：コンテンツの一覧表示              | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-ls-command-content-listing-219205'>ラボを開始</a>                   |
+|             02 | 📖 🆓 Linux の pwd コマンド：ディレクトリ表示                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-pwd-command-directory-displaying-209734'>ラボを開始</a>             |
+|             03 | 🎯 🆓 Linux ディレクトリナビゲーション                        | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-directory-navigation-387844'>チャレンジを開始</a>                         |
+|             04 | 📖 🆓 Linux cd コマンド：ディレクトリ変更                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-cd-command-directory-changing-209733'>ラボを開始</a>                |
+|             05 | 📖 🆓 Linux の mkdir コマンド：ディレクトリの作成             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-mkdir-command-directory-creating-209739'>ラボを開始</a>             |
+|             06 | 🎯 🆓 新しいプロジェクト構造のセットアップ                    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-setting-up-a-new-project-structure-387859'>チャレンジを開始</a>           |
+|             07 | 📖 🆓 Linux の cp コマンド：ファイルコピー                    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-cp-command-file-copying-209744'>ラボを開始</a>                      |
+|             08 | 📖 🆓 Linux の mv コマンド：ファイルの移動とリネーム          | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-mv-command-file-moving-and-renaming-209743'>ラボを開始</a>          |
+|             09 | 📖 🆓 Linux の rm コマンド：ファイルの削除                    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-rm-command-file-removing-209741'>ラボを開始</a>                     |
+|             10 | 🎯 🆓 ファイルとディレクトリの整理                            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-organizing-files-and-directories-387877'>チャレンジを開始</a>             |
+|             11 | 📖 🆓 Linux の cat コマンド：ファイルの連結                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-cat-command-file-concatenating-210986'>ラボを開始</a>               |
+|             12 | 📖 🆓 Linux の more コマンド：ファイルのスクロール            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-more-command-file-scrolling-214299'>ラボを開始</a>                  |
+|             13 | 📖 🆓 Linux の less コマンド：ファイルのページング            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-less-command-file-paging-214301'>ラボを開始</a>                     |
+|             14 | 🎯 🆓 Linux でのログファイルと設定ファイルの閲覧              | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-viewing-log-and-configuration-files-in-linux-387914'>チャレンジを開始</a> |
+|             15 | 📖 🆓 Linux の head コマンド：ファイルの先頭を表示する        | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-head-command-file-beginning-display-214302'>ラボを開始</a>          |
+|             16 | 📖 🆓 Linux の tail コマンド：ファイル末尾の表示              | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-tail-command-file-end-display-214303'>ラボを開始</a>                |
+|             17 | 📖 🆓 Linux の nl コマンド：行番号付け                        | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-nl-command-line-numbering-210988'>ラボを開始</a>                    |
+|             18 | 🎯 🆓 迅速な脅威検出                                          | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-rapid-threat-detection-387930'>チャレンジを開始</a>                       |
+|             19 | 📖 🆓 Linux which コマンド：コマンドの場所を特定する          | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-which-command-command-locating-215210'>ラボを開始</a>               |
+|             20 | 📖 🆓 Linux の whereis コマンド：ファイルとコマンドの検索     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-whereis-command-file-and-command-finding-215211'>ラボを開始</a>     |
+|             21 | 📖 🆓 Linux find コマンド：ファイル検索                       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-find-command-file-searching-219191'>ラボを開始</a>                  |
+|             22 | 🎯 🆓 重要なシステムリソースを見つける                        | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-discover-critical-system-resources-388032'>チャレンジを開始</a>           |
+|             23 | 📖 🆓 Linux の grep コマンド：パターン検索                    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-grep-command-pattern-searching-219192'>ラボを開始</a>               |
+|             24 | 🎯 🆓 大海原から針を探す                                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-needle-in-the-haystack-388109'>チャレンジを開始</a>                       |
+|             25 | 📖 🆓 Linux の wc コマンド：テキストのカウント                | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-wc-command-text-counting-219200'>ラボを開始</a>                     |
+|             26 | 📖 🆓 Linux の cut コマンド：テキストの切り取り               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-cut-command-text-cutting-219187'>ラボを開始</a>                     |
+|             27 | 📖 🆓 Linux の sort コマンド：テキストのソート                | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-sort-command-text-sorting-219196'>ラボを開始</a>                    |
+|             28 | 📖 🆓 Linux の uniq コマンド：重複フィルタリング              | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-uniq-command-duplicate-filtering-219199'>ラボを開始</a>             |
+|             29 | 📖 🆓 Linux の tr コマンド：文字変換                          | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-tr-command-character-translating-219198'>ラボを開始</a>             |
+|             30 | 📖 🆓 Linux の diff コマンド：ファイル比較                    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-diff-command-file-comparing-219189'>ラボを開始</a>                  |
+|             31 | 📖 🆓 Linux の join コマンド：ファイルの結合                  | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-join-command-file-joining-219193'>ラボを開始</a>                    |
+|             32 | 📖 🆓 Linux xargs コマンド：コマンド構築                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-xargs-command-command-building-219201'>ラボを開始</a>               |
+|             33 | 📖 🆓 Linux の awk コマンド：テキスト処理                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-awk-command-text-processing-388493'>ラボを開始</a>                  |
+|             34 | 🎯 🆓 単語数カウントとソート                                  | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-word-count-and-sorting-388125'>チャレンジを開始</a>                       |
+|             35 | 🎯 🆓 従業員データの処理                                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-processing-employees-data-388132'>チャレンジを開始</a>                    |
+|             36 | 📖 🆓 Linux の top コマンド：リアルタイムシステムモニタリング | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-top-command-real-time-system-monitoring-388500'>ラボを開始</a>      |
+|             37 | 📖 🆓 Linux の free コマンド：システムメモリの監視            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-free-command-monitoring-system-memory-388496'>ラボを開始</a>        |
+|             38 | 📖 🆓 Linux の df コマンド：ディスク空き容量の報告            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-df-command-disk-space-reporting-219188'>ラボを開始</a>              |
+|             39 | 📖 🆓 Linux du コマンド：ファイルスペースの推定               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-du-command-file-space-estimating-219190'>ラボを開始</a>             |
+|             40 | 🎯 🆓 ディスク使用状況調査                                    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-disk-usage-detective-388099'>チャレンジを開始</a>                         |
+|             41 | 📖 🆓 Linux time コマンド：コマンドのタイミング測定           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-linux-time-command-command-timing-219197'>ラボを開始</a>                  |
 
 ## 環境
 
